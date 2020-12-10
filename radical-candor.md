@@ -105,4 +105,60 @@ When bosses criticize others to humiliate them rather than to help them improve,
 ## Don't be an ass.
 The worst kind of Obnoxious Aggression happens when one person really understands another’s vulnerabilities and then targets them, either for sport or to assert dominance. I once had a boss who really knew how to push my buttons—he possessed what I thought of as “cruel empathy.” Almost nothing will erode trust more quickly than using one’s insights into what makes another person tick to hurt them.
 
-(loc: 648)
+> The incident with Larry is a good example of how criticism can be obnoxiously aggressive if you don’t care personally. I probably thought I was being Radically Candid—“speaking truth to power”—but I wasn’t. It was a clear-cut case of “front-stabbing.” Better than backstabbing, but still really bad.
+
+## Don't give obnoxious praise.
+Praise can be obnoxiously aggresive. 
+
+> Imagine how Person 33 felt when he saw that his private compensation information had been sent out to six hundred people. I doubt it made him feel better to learn that he was being paid half of what he should have been and that his boss thought he was probably looking for other jobs!
+
+## Don't give guidance if you don't care enough to challenge directly.
+People give praise and criticism that is manipulatively insincere when they are too focused on being liked or think they can gain some sort of political advantage by being fake—or when they are just too tired to care or argue any more. 
+
+Guidance that is manipulatively insincere rarely reflects what the speaker actually thinks; rather, it’s an attempt to push the other person’s emotional buttons in return for some personal gain.
+
+> Apple’s Chief Design Officer Jony Ive told a story about a time when he pulled his punches when criticizing his team’s work. When Steve Jobs asked Jony why he hadn’t been more clear about what was wrong, Jony replied, “Because I care about the team.” To which Steve replied, “No, Jony, you’re just really vain. You just want people to like you.” Recounting the story, Jony said, “I was terribly cross because I knew he was right.”
+
+That’s why Colin Powell said leadership is sometimes about being willing to piss people off. 
+
+When you are overly worried about how people will perceive you, you’re less willing to say what needs to be said. Like Jony, you may feel it’s because you care about the team, but really, in those all-too-human moments you may care too much about how they feel about you—in other words, about yourself. I’ve been there, too. We all have.
+
+# Challenging & invoking emotions is giving a damn.
+Give a damn about the people you challenge. 
+
+Worrying about whether or not they give a damn about you, however, is not “caring personally” about them, and it’s likely to push you in the wrong direction on the “challenge directly” axis. 
+
+That’s not going to help your team achieve great results, or take a step in the direction of their dreams. Let go of vanity and care personally. But if you don’t care, don’t waste your time and everyone else’s by trying to fake it.
+
+## Ruinous Empathy
+When bosses are too invested in everyone getting along, they also fail to encourage the people on their team to criticize one another for fear of sowing discord. They create the kind of work environment where “being nice” is prioritized at the expense of critiquing, and therefore, improving actual performance.
+
+Bosses often make the mistake of thinking that if they hang out in the Ruinous Empathy quadrant they can build a relationship with their direct reports and then move over to Radical Candor. They’re pleasant to work with, but as time goes by their employees start to realize that the only guidance they’ve received is “good job” and other vaguely positive comments. 
+
+On the flip side, when Ruinous Empathy prevents bosses from soliciting criticism, they have no idea anything is wrong until a person quits. Needless to say, this strategy does not build trust on either side.
+
+# Build a culture that challenges everyone.
+There are several reasons why it makes sense to begin building a culture of Radical Candor by asking people to criticize you. 
+
+- First, it’s the best way to show that you are aware that you are often wrong, and that you want to hear about it when you are; you want to be challenged. 
+- Second, you’ll learn a lot—few people scrutinize you as closely as do those who report to you.
+- Third, the more firsthand experience you have with how it feels to receive criticism, the better idea you’ll have of how your own guidance lands for others. - Fourth, asking for criticism is a great way to build trust and strengthen your relationships.
+
+## On praising
+Praise guides people in the right direction. 
+
+It’s just as important to let people know what to do more of as what to do less of. It also encourages people to keep improving. In other words, the best praise does a lot more than just make people feel good. It can actually challenge them directly.
+
+## Just say it
+> When I am criticizing, I try to be less nervous, and focus on “just saying it.” If I think too much about how to say it I’m likely to wimp out and say nothing. And when I am praising, I try to be at least aware of how praise can go wrong, and put more energy into thinking about how to say it.
+
+## Dissecting Jobs' criticism style
+> JOBS: The most important thing I think you can do for somebody who’s really good and who’s really being counted on is to point out to them when they’re not—when their work isn’t good enough. And to do it very clearly and to articulate why … and to get them back on track.
+
+He’s careful not to personalize the criticism—not to say “when they’re not good enough.” Instead, he says “when their work isn’t good enough.”
+
+Everyone must find their own way to criticize people without discouraging them. Steve Jobs’s guidance style is certainly not for everyone, but it’s worth understanding where he was coming from.
+
+## A trick for saying really difficult things
+> When you’re faced with telling a person something that will be extremely hard to hear, pretend you’re just saying, “Your fly is down,” or “You have spinach in your teeth.” These less-fraught scenarios can help you approach bigger problems more straightforwardly.
+
