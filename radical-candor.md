@@ -162,3 +162,77 @@ Everyone must find their own way to criticize people without discouraging them. 
 ## A trick for saying really difficult things
 > When you’re faced with telling a person something that will be extremely hard to hear, pretend you’re just saying, “Your fly is down,” or “You have spinach in your teeth.” These less-fraught scenarios can help you approach bigger problems more straightforwardly.
 
+Then next time you spot a metaphorical fly down and are tempted not to say anything, imagine where that puts you on the framework: Ruinous Empathy or Manipulative Insincerity? The little jolt might just move you toward Radical Candor.
+
+## Don't repress yourself! Challenge!
+From the moment you learned to speak, you started to challenge those around you. Then you were told some version of “If you don’t have anything nice to say, don’t say anything at all.” Well, now it’s your job to say it. 
+
+**And if you are a boss or a person in a position of some authority, it’s not just your job. It’s your moral obligation. Just say it!**
+
+Well, stop repressing your innate ability to care personally. Give a damn!
+
+# Understand your team.
+
+## Rock stars vs. superstars
+**Rock stars are solid as a rock.** Think the Rock of Gibraltar, not Bruce Springsteen. The rock stars love their work. They have found their groove. They don’t want the next job if it will take them away from their craft. Not all artists want to own a gallery; in fact, most don’t. If you honor and reward the rock stars, they’ll become the people you most rely on. If you promote them into roles they don’t want or aren’t suited for, however, you’ll lose them—or, even worse, wind up firing them. 
+
+**Superstars, on the other hand, need to be challenged and given new opportunities to grow constantly.**
+
+## It's about growth, not potential.
+> Scott proposed using the word “growth” instead of “potential,” to help managers think about what opportunities to give to which people on their teams. Changing one word made a world of difference. 
+
+Instead of asking an implicitly judgmental question like, “Is this a person with high or low potential?” we encouraged managers to ask themselves questions like, “What growth trajectory does each person on my team want to be on right now?” or “Have I given everybody opportunities that are in line with what they really want?”
+
+This set of questions around growth trajectory can help you discover what motivates each person much better than a set of questions around “potential” or “talent” could. And the insights it produces will help you avoid burning out the rock stars and boring the superstars.
+
+## Know your direct reports & understand their ambitions.
+**The most important thing you can do for your team collectively is to understand what growth trajectory each person wants to be on at a given time and whether that matches the needs and opportunities of the team. To do that, you are going to have to get to know each of your direct reports at a personal level.**
+
+## Don't force passion, acknowledge the shit
+Insisting that people have passion for their job can place unnecessary pressure on both boss and employee. 
+
+> I struggled with this at Google, where we were hiring people right out of college to do dull customer-support work. I tried convincing them that we were “funding creativity a nickel at a time.” One young woman who’d studied philosophy in college, called BS immediately. “Look, the job is a little boring,” she said. “Let’s just admit that. It’s OK. Plutarch laid bricks. Spinoza ground lenses. Tedium is part of life.” I loved her approach to finding meaning, but it was unique to her. A slogan like “Spinoza ground lenses” would not have been inspiring for the broader team.
+
+There’s nothing wrong with working hard to earn a paycheck that supports the life you want to lead. That has plenty of meaning.
+
+> A wise man once told me, “Only about five percent of people have a real vocation in life, and they confuse the hell out of the rest of us.”
+
+## Assessing direct reports
+When assessing a person’s past performance, it’s useful to consider both their results and more intangible things like “teamwork.” The expected results for a given quarter or year are ideally set by the employee; they should be as objective and as measurable as possible. The intangibles are usually impossible to measure but not too hard to describe, and so expectations should be clear here as well. Performance is not a permanent label. No person is always an “excellent performer.” They just performed excellently last quarter.
+
+## Don't ignore people.
+One of the most common mistakes bosses make is to ignore the people who are doing the best work because “they don’t need me” or “I don’t want to micromanage.” Ignoring somebody is a terrible way to build a relationship.
+
+> “That’s like saying, to have a good marriage, marry the right person and then avoid spending any time with them. Ridiculous, right?” he exclaimed. “Imagine if I went home and told my wife, ‘I don’t want to micromanage you, so I’m not going to spend any time with you or the kids this year.’”
+
+Ignore these people and you won’t, in short, be managing.
+
+## Be a partner.
+You don’t want to be an absentee manager any more than you want to be a micromanager. 
+
+**Instead, you want to be a partner—that is, you must take the time to help the people doing the best work overcome obstacles and make their good work even better.** This is time-consuming because it requires that you know enough about the details of the person’s work to understand the nuances.
+
+## Handling recognition
+For too many bosses, “recognition” means “promotion.” But in most cases, this is a big mistake. Promotion often puts these people in roles they are not as well-suited for or don’t want.
+
+> In addition to top ratings, a great way to recognize people in a rock star phase is to **designate them as “gurus,” or “go-to” experts**. Often this means putting them in charge of teaching newer team members, if they show the aptitude for it.
+
+Life is so much better when people are great at their work and love it. The idea of climbing a corporate ladder is not inspiring to plenty of people. And yet those on a gradual growth trajectory are often referred to pejoratively as “B-players,” or as having “capped out.”
+
+> Part of building a cohesive team is to create a culture that recognizes and rewards the rock stars. I’m afraid for most of my career I treated them like second-class citizens.
+
+## Keeping each camp happy
+- The best way to keep superstars happy is to challenge them and make sure they are constantly learning. It’s vital not to “squash” these people. Recognize that you’ll probably be working for them one day, and celebrate that fact.
+- The best way to keep rockstars happy is to keep them stable.
+
+## Sometimes firing someone is the best you can do
+Lots of people never find work they are truly excellent at because they stay in the wrong job so long that any change would require a step or two backward.
+
+Sometimes, people just needed to be thrown out of the nest to spread their wings. In all cases, the people wound up much happier, even though making a change was hard.
+
+Also, when somebody is performing poorly and, having received clear communication about the nature of the problem, is showing no signs of improvement, you must fire that person.
+
+## The point
+**Your job is not to provide purpose but instead to get to know each of your direct reports well enough to understand how each one derives meaning from their work.**
+
+In many ways, your job as the boss is to set and uphold a quality bar. That can feel harsh in the short term, but in the long run the only thing that is meaner is lowering the bar.
