@@ -236,3 +236,99 @@ Also, when somebody is performing poorly and, having received clear communicatio
 **Your job is not to provide purpose but instead to get to know each of your direct reports well enough to understand how each one derives meaning from their work.**
 
 In many ways, your job as the boss is to set and uphold a quality bar. That can feel harsh in the short term, but in the long run the only thing that is meaner is lowering the bar.
+
+# The Hard Stuff
+
+## Common lies managers tell themselves to avoid firing someone
+- **"It will get better."** Stop and ask yourself: how, exactly, will it get better? It probably won't.
+- **"Someone is better than nobody."** Poor performers create extra work for others. It's better to have a hole than an asshole.
+- **"A transfer is the answer."** This is generally a mistake: it feels nicer, but it's a net negative.
+- **"It's bad for morale."** Keeping someone who can't do the job is far worse for morale. 
+
+## Being radically candid when firing
+- Recall a job you were terrible at and think how glad you feel that you’re no longer in it.
+- Retaining people who are doing bad work penalizes the people doing excellent work.
+
+##  Give a shit
+> I had a family crisis while I was working for Sheryl Sandberg. I will always be grateful for her response: “Get on a plane, go home, take all the time you need, and don’t worry about anything at Google.
+
+## Don't classify people
+> My biggest concern with the terms “rock star” and “superstar” is that you’ll use them as permanent labels for people. Please do not! It’s tempting to see certain people as fit only for a certain role or having a certain set of skills/weaknesses that will never change. The truth is, people really do change.
+
+> To combat permanent labels, Qualtrics cofounder (and my colleague from Juice and Google) Jared Smith came up with the performance ratings “off quarter,” “solid quarter,” and “exceptional quarter.”
+
+# Telling people what to do doesn't work.
+If you want your team to achieve something bigger than you could achieve alone, if you want to “burst the bounds of your brain,” you have to care about the people you are working with. You’ll get more done if you take the time to incorporate their thinking into yours, and yours into theirs.
+
+> On the one hand, I loved Google’s approach and subscribed to the Antoine de Saint-Exupéry school of management: “If you want to build a ship, don’t drum up people to collect wood and don’t assign them tasks and work, but rather teach them to long for the endless immensity of the sea.”
+
+## Strong opinions, weakly held
+It’s hard enough to get yourself to listen to your team members and let them know you are listening; getting them to listen to one another is even harder. The keys are 1) have a simple system for employees to use to generate ideas and voice complaints, 2) make sure that at least some of the issues raised are quickly addressed, and 3) regularly offer explanations as to why the other issues aren’t being addressed.
+
+> If you can build a culture where people listen to one another, they will start to fix things you as the boss never even knew were broken.
+
+## Editor, not author
+Once you've created a culture of listening, the next step is to push yourself and your direct reports to understand and convey thoughts and ideas more clearly. Trying to solve a problem that hasn’t been clearly defined is not likely to result in a good solution; debating a half-baked idea is likely to kill it. As the boss, you are the editor, not the author.
+
+> New ideas don’t have to be grandiose plans for the next iPad. Your team may be saying something like, “I’m frustrated by this process,” or “I’m not feeling as energized by my work as I was,” or “I think our sales pitch could be stronger,” or “I’d do better work if there were more natural light in the office,” or “What if we just stopped doing X?” or “I’d like to start working on Y.”
+
+## Clarify, clarify, clarify
+It’s important to push the people on your team to clarify their thinking and ideas so that you don’t “squish” their best thinking or ignore problems that are bothering them. It’s not just important to understand new ideas clearly; it’s equally important, and often more difficult, to understand the people to whom your team will have to explain the ideas clearly.
+
+There are also great ideas that look bad at first blush. A good brainstorming session distinguishes between the two without killing too many good ideas or wasting too much time on the bad ones.
+
+## 1:1 time is a safe space
+Less dramatic than these kinds of formalized meetings and programs are your weekly 1:1s. These meetings should be a safe place for your direct reports to come and talk to you about new ideas. 
+
+In this context, you shouldn’t judge the ideas but rather help your direct reports clarify their thinking. This is a form of “plussing.” You can point out problems but with the aim of figuring a way around those problems, not killing ideas.
+
+> The next time you spend two hours helping somebody edit an email until it’s just two sentences, don’t feel you are wasting your time. You are getting to the essence of the idea, which allows the recipient to absorb it quickly and easily. And you are teaching an invaluable skill.
+
+## Debate time is essential.
+> Your job as a boss is to turn on that “rock tumbler.” Too many bosses think their role is to turn it off—to avoid all the friction by simply making a decision and sparing the team the pain of debate. It’s not. Debate takes time and requires emotional energy. But lack of debate saps a team of more time and emotional energy in the long run.
+
+If you skip the debate phase, you’ll make worse decisions, you’ll be unable to persuade everyone who needs to execute, and you’ll ultimately slow down or grind to a halt. Once again, you don’t have to be in every debate—in fact, you shouldn’t be. But you’ve got to make sure that they happen, and that there is a culture of debate on your team.
+
+## No time for ego in debate
+Make sure that individual egos and self-interest don’t get in the way of an objective quest for the best answer.
+
+Remind people what the goal is: to get to the best answer, as a team. You’re creating a collaboration of great minds, not monitoring a high school debate competition or running a presidential election. If you have to, set ground rules at the beginning of the meeting, or—if your team would find it amusing and useful rather than ridiculous—put a prop like an “ego coat check” outside the door.
+
+## Obligation to dissent
+The sixth man. 
+
+> McKinsey had very consciously created an “obligation to dissent.” If everyone around the table agreed, that was a red flag. Somebody had to take up the dissenting voice. McKinsey alums often brought this with them into the companies they later worked for. One ex-McKinsey executive at Apple struggled to foster a culture of debate on a team he inherited in Japan. He had a bunch of gavels made up with “duty to dissent” written in Japanese on them. If there wasn’t a robust enough argument in a meeting, he’d slide the gavel across the table to someone, as a sign to take up the opposite point of view. This simple prop was surprisingly effective.
+
+## Acknowledge emotions when debating.
+There are times when people are just too tired, burnt out, or emotionally charged up to engage in productive debate. It’s crucial to be aware of these moments, because they rarely lead to good outcomes. Your job is to intervene and call a time-out. If you don’t, people will make a decision so that they can go home; or worse, a huge fight stemming from raw emotions will break out. 
+
+If you’ve gotten to know each person on your team well enough, you’ll be sufficiently aware of everyone’s emotions and energies so that you’ll know when it’s necessary to step in and defer the debate till people are in a better frame of mind.
+
+## Separate debate and decision meetings
+One way to avoid this tension is to separate debate meetings and decision meetings. Another way to ease the anxiety of the people who want to know when the decision will get made is to have a “decide by” date next to each item being debated. Then at least they know when the debate will end and the decision will be made.
+
+## Debate can get difficult.
+It’s tempting to end debates and make a decision too soon when a debate becomes too painful. You might be creeping up on a topic that’s been a subject of great contention. At times like this, people often look to the boss to end the suffering and make a decision. 
+
+> My instinct is to be a peacemaker, or to get to a decision quickly. But a boss’s job is often to keep the debate going rather than to resolve it with a decision. It’s the debates at work that help individuals grow and help the team work better collectively to come up with the best answer.
+
+## Set decide by dates.
+Deadlines help ease debate.
+
+# Decisions
+## Decisions should be taken by those closest to the facts.
+That is why kick-ass bosses often do not decide themselves, but rather create a clear decision-making process that empowers people closest to the facts to make as many decisions as possible. Not only does that result in better decisions, it results in better morale.
+
+## Facts, not recommendations
+When collecting information for a decision, we are often tempted to ask people for their recommendations—“What do you think we should do?”—but as one executive I worked with at Apple explained to me, people tend to put their egos into recommendations in a way that can lead to politics, and thus worse decisions. 
+
+So she recommended seeking “facts, not recommendations.” Of course “facts” come inflected with each person’s particular perspective or point of view, but they are less likely to become a line in the sand than a recommendation is.
+
+## Look for the closest people to the facts. 
+> If Steve Jobs was making an important decision and wanted to understand some aspect of it more deeply, he’d go right to the person working on it. There were numerous stories about relatively new, young engineers who’d return from lunch to find Steve waiting in their cube, eager to ask them about a specific detail of their work.
+
+## Persuade people, persaude your team.
+Expecting others to execute on a decision without being persuaded that it’s the right thing to do is a recipe for terrible results. And don’t imagine that you can step in and simply tell everyone to get in line behind a decision, whether you have made it or somebody else has.
+
+### Acknowledging others' emotions is key for decision making.
+> I had a colleague named “Jason” who was responsible for making his product usable for deaf people. He couldn’t have been more passionate about his work—his mother was deaf—but he was unable to persuade the engineering team to prioritize certain key features in time for launch. When I showed him Aristotle’s framework, he exploded. “I don’t know how I could have put any more emotion into my arguments,” he said, his voice choked with frustration. He’d explained to them his personal connection to the project. They’d seemed moved, but they still hadn’t gotten it done. “What were the emotions on the engineering team like?” I asked. “Oh. They were just exhausted. They’d been pulling all-nighters for weeks. It was like a death march over there.” “What did you do to address their emotions?” Jason smacked his forehead, seeing clearly now where he’d gone wrong.
